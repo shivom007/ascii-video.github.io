@@ -1,13 +1,4 @@
-// Image to ASCII
-// The Coding Train / Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/166-ascii-image.html
-// YT Link TBD
 
-// ASCII video: https://editor.p5js.org/codingtrain/sketches/KTVfEcpWx
-// ASCII image canvas: https://editor.p5js.org/codingtrain/sketches/r4ApYWpH_
-// ASCII image DOM: https://editor.p5js.org/codingtrain/sketches/ytK7J7d5j
-// ASCII image source text: https://editor.p5js.org/codingtrain/sketches/LNBpdYQHP
-// ASCII image weather API: https://editor.p5js.org/codingtrain/sketches/DhdqcoWn4
 
 // const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
 const density = '       .:-i|=+%O#@$'
